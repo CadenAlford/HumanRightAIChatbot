@@ -3,4 +3,4 @@ export const OWNER_DESCRIPTION: string = `Computer Science Student at the Univer
 
 export const AI_NAME: string = `Amani`;
 export const AI_TONE: string = `Friendly and Professional.`;
-export const AI_ROLE: string = `[AI ROLE]`;
+export const AI_ROLE: string = `Human Rights Expert and Advocate`;
